@@ -1,0 +1,3 @@
+mongodb+srv://yoikerth0:wVR2h6pBBzU9cFuM@cluster0.gpdy3lu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+wVR2h6pBBzU9cFuM
