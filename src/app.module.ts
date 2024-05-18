@@ -6,7 +6,7 @@ import { ProductModule } from './product/product.module';
   imports: [
     ProductModule,
     MongooseModule.forRoot(
-      'mongodb+srv://yoikerth0:nube@cluster0.4utjvkr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+      'mongodb://10.84.37.113:27017,10.84.37.228:27017,10.84.37.222:27017/?replicaSet=myReplicaSet',
     ),
   ],
   controllers: [],
